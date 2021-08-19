@@ -1,1 +1,1 @@
-This is Abd-Elrahman's first git project.
+This is Abd El-Rahman's first git project.
